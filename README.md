@@ -9,7 +9,6 @@ Bu proje, **HTML**, **CSS** ve **JavaScript** kullanılarak **Visual Studio Code
 - Header Section
 - Home Section
 - Menu Section
-- Scroll Tasarımı
 - Product Section
 - About Section
 - Review Section
